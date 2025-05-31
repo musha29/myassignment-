@@ -1,0 +1,31 @@
+
+  
+
+   <style>
+
+
+        h1, h2 {
+            color: white;
+        }
+
+        p{
+            max-width: 800px;
+            margin: 0 auto 20px;
+            line-height: 1.6;
+            background-color: rgba(0, 0, 0, 0.5); /* Transparent black background for better text contrast */
+            padding: 15px;
+            border-radius: 10px;
+        }
+        
+        center {
+            display: block;
+            text-align: center;
+            padding: 30px;
+        }
+
+        img {
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        }
+    </style>

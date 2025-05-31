@@ -1,0 +1,41 @@
+    <rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap">
+
+    <style>
+        body {
+            background-image: url('background.jpg'); /* Replace with your background image filename */
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+            font-family: 'Josefin Sans', sans-serif;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2 {
+            color: white;
+        }
+
+        p {
+            max-width: 800px;
+            margin: 0 auto 20px;
+            line-height: 1.6;
+            background-color: rgba(0, 0, 0, 0.5); /* Transparent black background for better text contrast */
+            padding: 15px;
+            border-radius: 10px;
+        }
+
+        center {
+            display: block;
+            text-align: center;
+            padding: 30px;
+        }
+
+        img {
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+        }
+    </style>
